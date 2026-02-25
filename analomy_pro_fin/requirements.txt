@@ -1,5 +1,3 @@
-setuptools
-wheel
 gunicorn
 dash
 dash-bootstrap-components
@@ -8,3 +6,5 @@ numpy
 scipy
 plotly
 tensorflow
+setuptools
+wheel
