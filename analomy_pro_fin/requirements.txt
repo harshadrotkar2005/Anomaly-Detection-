@@ -1,9 +1,10 @@
 setuptools
 wheel
+gunicorn
 dash
 dash-bootstrap-components
 pandas
 numpy
 scipy
 plotly
-gunicorn
+tensorflow
